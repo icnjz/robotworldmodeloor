@@ -1,0 +1,12 @@
+median_log_excess_late_high: +0.549 [+0.421, +0.674]
+median_log_excess_post_exceed_high: +0.581 [+0.466, +0.718]
+spearman_excess_vs_action_amp: +0.074 [-0.132, +0.282]
+spearman_excess_vs_state_dist: -0.212 [-0.403, -0.009]
+partial_excess_action_given_state: +0.101 [-0.103, +0.303]
+partial_excess_state_given_action: -0.222 [-0.411, -0.013]
+support_pull_R_minus_B_high: +0.307 [+0.228, +0.387]
+R central: late bias 9.715 seed variance 2.976 (x1e-3), variance share 23.5%
+R high: late bias 14.547 seed variance 4.086 (x1e-3), variance share 21.9%
+B central: late bias 5.854 seed variance 3.284 (x1e-3), variance share 35.9%
+B high: late bias 6.971 seed variance 4.559 (x1e-3), variance share 39.5%
+state distance of high windows (median, central = 1): 0.99; action amp ratio median 1.15; support pull R 0.93 B 0.62
